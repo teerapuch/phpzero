@@ -57,3 +57,11 @@ alt="PHPZero ตอนที่ 4 Variables" width="340" height="250" border="2"
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=h4WIU3e63_k
 " target="_blank"><img src="http://img.youtube.com/vi/h4WIU3e63_k/0.jpg"
 alt="PHPZero ตอนที่ 5 Numbers" width="340" height="250" border="2" /></a>
+
+### PHPZero ตอนที่ 6 Array Indexed เรื่องของการเก็บค่าในตัวแปรแบบกลุ่ม
+
+ตอนที่ 6 ผมพาไปรู้จักกับ เรื่องของ Array ใน PHP กันครับ แต่เป็นเรื่องของการสร้าง การเพิ่ม การลบ และการเรียกออกมาใช้งานนะครับ และลงไปลึกแค่เพียง PHP แบบเป็น Indexed เท่านั้น เพื่อให้คนเพิ่งเริ่มเข้าใจง่ายๆนะครับ
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S45lwvV0i_I
+" target="_blank"><img src="http://img.youtube.com/vi/S45lwvV0i_I/0.jpg"
+alt="PHPZero ตอนที่ 6 Array Indexed" width="340" height="250" border="2" /></a>
