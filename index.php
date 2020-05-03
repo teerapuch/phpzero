@@ -16,6 +16,7 @@ $EP3 = "http://www.youtube.com/watch?feature=player_embedded&v=nrcC2PYCwyI";
 $EP4 = "http://www.youtube.com/watch?feature=player_embedded&v=B1gdw5_TWfM";
 $EP5 = "http://www.youtube.com/watch?feature=player_embedded&v=h4WIU3e63_k";
 $EP6 = "http://www.youtube.com/watch?feature=player_embedded&v=S45lwvV0i_I";
+$EP7 = "";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -104,6 +105,11 @@ $EP6 = "http://www.youtube.com/watch?feature=player_embedded&v=S45lwvV0i_I";
             <li>
                 <a href="<?php echo $EP6; ?>" target="_blank">
                     ตอนที่ 6 Array Indexed เรื่องของการเก็บค่าในตัวแปรแบบกลุ่ม
+                </a>
+            </li>
+            <li>
+                <a href="<?php echo $EP7; ?>" target="_blank">
+                    ตอนที่ 7 ตัวแปรแบบคงที่ Constants
                 </a>
             </li>
         </ul>
